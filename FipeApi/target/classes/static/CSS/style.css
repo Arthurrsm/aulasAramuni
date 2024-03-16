@@ -1,0 +1,8 @@
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    width: 1000px;
+    color: #27005D;
+}
